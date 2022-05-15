@@ -14,6 +14,8 @@ module.exports = {
         'principal': '#1A755A',
 				'secondary': '#29B88D',
 				'tertiary': '#68DEBB',
+				'background-form-1': '#232323',
+				'background-form-2': '#121615',
       },
       fontFamily: {
 				Inria: ["Inria Sans", "sans-serif"],
